@@ -4,9 +4,9 @@
 ## [그림 넣기]
 
 ## dataset
-dataset 으로 [WIKIART](https://www.wikiart.org/) 를 사용 [Download](https://github.com/cs-chan/ArtGAN/tree/f5d6f6b58a6d8a4bd05aaaedd9688d08c02df8f2/WikiArt%20Dataset)
+dataset 으로 [WIKIART](https://www.wikiart.org/)를 사용 [Download](https://github.com/cs-chan/ArtGAN/tree/f5d6f6b58a6d8a4bd05aaaedd9688d08c02df8f2/WikiArt%20Dataset)
 
-CLI 명령어
+**CLI 명령어**
 ```shell
 mkdir data
 cd data
