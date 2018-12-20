@@ -11,7 +11,8 @@
 ## Turing test
 - 총 8개의 그림 중 4개의 그림은 사람이 4개의 그림은 저희 모델인 CAN 이 생성한 그림입니다. 
 
-![튜링테스트.PNG](:storage\d1fc98de-2a59-49e0-a5e4-44f849209e5d\e02569fd.PNG)
+![turingTest](https://user-images.githubusercontent.com/45627868/50278002-3fdd2900-0489-11e9-8239-6018ae707052.PNG)
+
 
 
 
