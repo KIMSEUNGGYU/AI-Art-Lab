@@ -1,6 +1,6 @@
 # Creative-Adversarial-Networks
 포항공대 정보통신연구소 인턴 프로젝트 (AI Art Lab 그림 모델)
-> 포항공대 인턴시절에 개발한 CAN 모델 개발위해 개발한 DCGAN 모델도 업데이트 되어 있습니다.
+> 포항공대 인턴시절에 개발한 CAN 모델를 개발하기 위해 개발한 DCGAN 모델도 업데이트 되어 있습니다.
 
 
 ![can](https://user-images.githubusercontent.com/45627868/50401383-755b7c80-07d1-11e9-99dc-5a1d588010db.PNG)
